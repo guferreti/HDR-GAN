@@ -11,7 +11,7 @@ which produces high-quality HDR images from multi-exposed LDR images without the
 
 
 ## Prerequisites
-### Install required packages
+### Install required packages on conda enviroment
 
 ```
 conda install cudnn=7.6.5=cuda10.0_0
