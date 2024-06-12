@@ -16,6 +16,10 @@ which produces high-quality HDR images from multi-exposed LDR images without the
 pip install -r requirements.txt
 ```
 
+```
+conda install cudnn=7.6.5=cuda10.0_0
+```
+
 ## Quickly start
 ### Train
 * Download training set of [Kalantari's dataset](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/), decompress and put it in `./dataset` folder
