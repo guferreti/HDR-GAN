@@ -11,10 +11,14 @@ which produces high-quality HDR images from multi-exposed LDR images without the
 
 
 ## Prerequisites
-### Install required packages on conda enviroment
+### Install required packages using singularity
 
 ```
 singularity pull docker://nvcr.io/nvidia/tensorflow:23.03-tf1-py3
+```
+
+```
+pip install opencv-python
 ```
 
 ```
