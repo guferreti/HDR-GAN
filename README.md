@@ -21,9 +21,6 @@ singularity pull docker://nvcr.io/nvidia/tensorflow:23.03-tf1-py3
 pip install opencv-python
 ```
 
-```
-pip install -r requirements.txt
-```
 
 ## Quickly start
 ### Train
